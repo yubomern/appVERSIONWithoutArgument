@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/cmake_install.cmake",
+		"C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

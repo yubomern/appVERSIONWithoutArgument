@@ -1,0 +1,11 @@
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/test_crash_csv_analyzer.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/run_tests.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/docs.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/INSTALL.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/CMakeFiles/crash-simulator.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/CMakeFiles/RUN_TESTS.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/CMakeFiles/INSTALL.dir
+C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/CMakeFiles/ALL_BUILD.dir

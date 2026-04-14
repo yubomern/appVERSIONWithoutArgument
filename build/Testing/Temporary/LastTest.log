@@ -1,0 +1,40 @@
+Start testing: Apr 14 22:57 Paris, Madrid (heure d’été)
+----------------------------------------------------------
+1/1 Testing: csv_analyzer_test
+1/1 Test: csv_analyzer_test
+Command: "C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/test/Release/test_crash_csv_analyzer.exe" "C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/build/crash_report.csv"
+Directory: C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build
+"csv_analyzer_test" start time: Apr 14 22:57 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Crash CSV Analyzer (Multi-threaded)
+
+[General Stats]
+Crashes: 3
+Intensity min/max/avg: 1/1/1
+
+[Severity]
+Level 1: 3
+
+[Timeline]
+First: 2026-04-08 20:31:45
+Last : 2026-04-08 20:31:45
+
+[Top Crashes]
+
+[Categories]
+Access Violation: 1
+Invalid Handle Usage: 1
+Stack Overflow: 1
+Saved: analysis_report.csv
+
+Done
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"csv_analyzer_test" end time: Apr 14 22:57 Paris, Madrid (heure d’été)
+"csv_analyzer_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 14 22:57 Paris, Madrid (heure d’été)

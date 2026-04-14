@@ -1,0 +1,4 @@
+timestamp,unix_timestamp,category,category_name,seed,description,call_chain_depth,exception_code,intensity,recursion_depth,memory_size,random_mode,generate_minidump
+"2026-04-08 20:31:45",1775673105,10,"Invalid Handle Usage",703631664,"Intentional invalid handle usage",20,0,1,20,1007553,true,true
+"2026-04-08 20:31:45",1775673105,3,"Stack Overflow",703631664,"Intentional stack overflow with depth 4",4,0,1,4,115286,true,true
+"2026-04-08 20:31:45",1775673105,9,"Access Violation",703631664,"Intentional access violation",4,0,1,4,115286,true,true

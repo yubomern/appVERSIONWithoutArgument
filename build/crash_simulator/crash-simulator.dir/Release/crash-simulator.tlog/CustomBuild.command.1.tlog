@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\PATRIKCV\LINPROC--MAIN\LINPROC--MAIN\CRASH_SIMULATOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main -BC:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build --check-stamp-file C:/Users/hp/Desktop/patrikCv/linproc--main/linproc--main/build/crash_simulator/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

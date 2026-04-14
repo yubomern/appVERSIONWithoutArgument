@@ -1,0 +1,3 @@
+/home/dghriss@actia.local/Téléchargements/linproc--main/crash_simulator/build/CMakeFiles/crash-simulator.dir
+/home/dghriss@actia.local/Téléchargements/linproc--main/crash_simulator/build/CMakeFiles/edit_cache.dir
+/home/dghriss@actia.local/Téléchargements/linproc--main/crash_simulator/build/CMakeFiles/rebuild_cache.dir

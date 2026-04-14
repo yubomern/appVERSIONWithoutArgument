@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hp\Desktop\patrikCv\linproc--main\linproc--main\build\CMakeFiles\acac449fda585d1c8700a19e8b19d19a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{01A13CD9-A1D0-38BE-8316-55C0518B1563}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

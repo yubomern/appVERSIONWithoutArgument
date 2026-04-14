@@ -1,0 +1,49 @@
+timestamp,unix_timestamp,category,category_name,seed,description,call_chain_depth,exception_code,intensity,recursion_depth,memory_size,random_mode,generate_minidump
+"2026-04-14 22:56:48",1776200208,5,"Deadlock / Infinite Loop",695395896,"Intentional deadlock/infinite loop",17,5,17,569001,true,false
+"2026-04-14 22:56:48",1776200208,6,"Assertion Failure",695395897,"Intentional assertion failure",12,3,12,454851,true,false
+"2026-04-14 22:56:48",1776200208,10,"Invalid Handle Usage",695395901,"Intentional invalid handle usage",15,4,15,532420,true,false
+"2026-04-14 23:00:25",1776200425,3,"Stack Overflow",618063785,"Intentional stack overflow with depth 8",8,2,8,89680,true,false
+"2026-04-14 23:00:25",1776200425,9,"Access Violation",618063782,"Intentional access violation",19,4,19,32689,true,false
+"2026-04-14 23:00:25",1776200425,8,"System Call Failure",618063790,"Intentional system call failure",4,4,4,695431,true,false
+"2026-04-14 23:00:25",1776200425,7,"Random Math Fault",618063789,"Intentional random math fault",13,2,13,848506,true,false
+"2026-04-14 23:00:25",1776200425,2,"Illegal Instruction",618063784,"Intentional illegal instruction",4,3,4,240295,true,false
+"2026-04-14 23:00:25",1776200425,1,"Integer Division by Zero",618063783,"Intentional integer division by zero",12,4,12,422128,true,false
+"2026-04-14 23:00:25",1776200425,11,"Stack Buffer Overflow",618063793,"Intentional stack buffer overflow with size 330598",16,3,16,330598,true,false
+"2026-04-14 23:00:25",1776200425,6,"Assertion Failure",618063788,"Intentional assertion failure",9,4,9,893401,true,false
+"2026-04-14 23:00:25",1776200425,5,"Deadlock / Infinite Loop",618063787,"Intentional deadlock/infinite loop",20,5,20,625428,true,false
+"2026-04-14 23:00:25",1776200425,10,"Invalid Handle Usage",618063792,"Intentional invalid handle usage",13,1,13,788296,true,false
+"2026-04-14 23:00:25",1776200425,9,"Access Violation",618063791,"Intentional access violation",11,5,11,300014,true,false
+"2026-04-14 23:00:25",1776200425,9,"Access Violation",618063785,"Intentional access violation",8,2,8,89680,true,false
+"2026-04-14 23:00:25",1776200425,4,"Heap Corruption",618063786,"Intentional heap corruption with size 748909",5,3,5,748909,true,false
+"2026-04-14 23:00:46",1776200446,9,"Access Violation",3124825862,"Intentional access violation",4,3,4,100996,true,false
+"2026-04-14 23:00:46",1776200446,9,"Access Violation",3124825853,"Intentional access violation",6,3,6,949427,true,false
+"2026-04-14 23:00:46",1776200446,11,"Stack Buffer Overflow",3124825864,"Intentional stack buffer overflow with size 812695",12,1,12,812695,true,false
+"2026-04-14 23:00:46",1776200446,8,"System Call Failure",3124825861,"Intentional system call failure",13,4,13,260251,true,false
+"2026-04-14 23:00:46",1776200446,1,"Integer Division by Zero",3124825854,"Intentional integer division by zero",4,2,4,601935,true,false
+"2026-04-14 23:00:46",1776200446,10,"Invalid Handle Usage",3124825863,"Intentional invalid handle usage",14,4,14,353570,true,false
+"2026-04-14 23:00:46",1776200446,4,"Heap Corruption",3124825857,"Intentional heap corruption with size 130398",20,1,20,130398,true,false
+"2026-04-14 23:00:46",1776200446,3,"Stack Overflow",3124825856,"Intentional stack overflow with depth 10",10,3,10,536792,true,false
+"2026-04-14 23:00:46",1776200446,7,"Random Math Fault",3124825860,"Intentional random math fault",17,5,17,953720,true,false
+"2026-04-14 23:00:46",1776200446,5,"Deadlock / Infinite Loop",3124825858,"Intentional deadlock/infinite loop",10,4,10,744673,true,false
+"2026-04-14 23:00:46",1776200446,2,"Illegal Instruction",3124825855,"Intentional illegal instruction",3,4,3,466776,true,false
+"2026-04-14 23:00:46",1776200446,6,"Assertion Failure",3124825859,"Intentional assertion failure",6,5,6,196081,true,false
+"2026-04-14 23:00:46",1776200446,9,"Access Violation",3124825856,"Intentional access violation",10,3,10,536792,true,false
+"2026-04-14 23:00:56",1776200456,6,"Assertion Failure",34905279,"Intentional assertion failure",18,1,18,404435,true,false
+"2026-04-14 23:00:56",1776200456,9,"Access Violation",34905273,"Intentional access violation",19,3,19,430228,true,false
+"2026-04-14 23:00:56",1776200456,5,"Deadlock / Infinite Loop",34905278,"Intentional deadlock/infinite loop",20,4,20,1011288,true,false
+"2026-04-14 23:00:56",1776200456,1,"Integer Division by Zero",34905274,"Intentional integer division by zero",9,5,9,953169,true,false
+"2026-04-14 23:00:56",1776200456,9,"Access Violation",34905282,"Intentional access violation",19,5,19,795012,true,false
+"2026-04-14 23:00:56",1776200456,11,"Stack Buffer Overflow",34905284,"Intentional stack buffer overflow with size 70558",20,2,20,70558,true,false
+"2026-04-15 00:45:57",1776206757,9,"Access Violation",558378474,"Intentional access violation",15,4,15,385200,true,false
+"2026-04-15 00:45:57",1776206757,1,"Integer Division by Zero",558378475,"Intentional integer division by zero",6,4,6,848099,true,false
+"2026-04-15 00:45:57",1776206757,5,"Deadlock / Infinite Loop",558378479,"Intentional deadlock/infinite loop",19,3,19,795517,true,false
+"2026-04-15 00:45:57",1776206757,8,"System Call Failure",558378482,"Intentional system call failure",16,4,16,17849,true,false
+"2026-04-15 00:45:57",1776206757,10,"Invalid Handle Usage",558378484,"Intentional invalid handle usage",16,2,16,451869,true,false
+"2026-04-15 00:45:57",1776206757,6,"Assertion Failure",558378480,"Intentional assertion failure",14,2,14,586227,true,false
+"2026-04-15 00:45:57",1776206757,4,"Heap Corruption",558378478,"Intentional heap corruption with size 554984",8,5,8,554984,true,false
+"2026-04-15 00:45:57",1776206757,7,"Random Math Fault",558378481,"Intentional random math fault",15,3,15,240912,true,false
+"2026-04-15 00:45:57",1776206757,9,"Access Violation",558378483,"Intentional access violation",17,2,17,289533,true,false
+"2026-04-15 00:45:57",1776206757,2,"Illegal Instruction",558378476,"Intentional illegal instruction",7,4,7,679272,true,false
+"2026-04-15 00:45:57",1776206757,11,"Stack Buffer Overflow",558378485,"Intentional stack buffer overflow with size 112844",19,3,19,112844,true,false
+"2026-04-15 00:45:57",1776206757,3,"Stack Overflow",558378477,"Intentional stack overflow with depth 19",19,2,19,436326,true,false
+"2026-04-15 00:45:57",1776206757,9,"Access Violation",558378477,"Intentional access violation",19,2,19,436326,true,false

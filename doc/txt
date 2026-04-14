@@ -1,0 +1,37 @@
+
+ Étape 1 : Tout supprimer (Base + CSV)
+
+cd ~/Téléchargements/linproc--main
+rm -f database/crash_dumps.db
+rm -f crash_simulator/build/crash_report.csv
+echo "✅ Nettoyage terminé. Base et CSV supprimés."
+
+
+Tester le mode aléatoire (Attention, ça va couper !)
+
+Téléchargements/linproc--main/crash_simulator/build
+./crash-simulator –random
+
+# Lancer l'analyse
+
+cd ~/Téléchargements/linproc--main/build
+
+
+./test_crash_csv_analyzer
+
+
+
+
+
+# Relancez le dashboard
+cd ~/Téléchargements/linproc--main/dashbaord
+streamlit run dashbaord.py
+
+
+
+
+
+
+
+#Importez manuellement dans db
+python3 import_csv,py
